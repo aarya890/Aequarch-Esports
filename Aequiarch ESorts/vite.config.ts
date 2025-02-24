@@ -9,5 +9,5 @@ export default defineConfig({
   },
 });
 export default defineConfig({
-  base: "/project-bolt/", // Replace with your repo name
+  base: "/aarya890/Aequarch-Esports/blob/main/Aequiarch%20ESorts", // Replace with your repo name
 });
