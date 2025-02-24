@@ -8,3 +8,6 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
 });
+export default defineConfig({
+  base: "/project-bolt/", // Replace with your repo name
+});
